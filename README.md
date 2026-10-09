@@ -8,4 +8,4 @@ Function
 5. Autoplay
 
 The Layout Design of Music Player
-![image alt](https://github.com/Abhishek12-dev/CodeAlpha_MusicPlayer/blob/main/music%20player.png?raw=true)
+![music player](https://github.com/Abhishek12-dev/CodeAlpha_MusicPlayer/blob/main/images/music%20player.png?raw=true)
